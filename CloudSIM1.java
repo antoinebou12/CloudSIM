@@ -13,7 +13,7 @@ import org.cloudbus.cloudsim.provisioners.BwProvisionerSimple;
 import org.cloudbus.cloudsim.provisioners.PeProvisionerSimple;
 import org.cloudbus.cloudsim.provisioners.RamProvisionerSimple;
 
-public class premierExemple {
+public class CloudSIM1 {
     // la liste de cloudlets
     private static List<Cloudlet> cloudletList;
 
